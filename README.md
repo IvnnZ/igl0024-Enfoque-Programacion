@@ -17,7 +17,7 @@ Asegúrate de tener instalado:
 Clona el repositorio y accede a la carpeta:
 
 ```bash
-git clone https://github.com/IvnnZ/Enfoque-Programacion-IGL0024.git
+git clone https://github.com/IvnnZ/igl0024-Enfoque-Programacion.git
 ```
 
 ### 3️⃣ Configuración del Entorno
