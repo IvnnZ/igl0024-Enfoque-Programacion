@@ -1,4 +1,4 @@
-# Proyecto FastAPI + AWS S3 + Rekognition
+# Proyecto Enfoque Programación Inteligencia Artificial
 
 Este proyecto utiliza FastAPI para cargar imágenes en un bucket privado de AWS S3 y analizarlas con AWS Rekognition.
 
